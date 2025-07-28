@@ -1,1 +1,11 @@
-
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Firebase Web Starter</title>
+  </head>
+  <body>
+    <h1>Welcome to Firebase Hosting!</h1>
+    <p>Your web app is now ready to deploy.</p>
+  </body>
+</html>
