@@ -1,0 +1,11 @@
+{
+  "name": "firebase-web-starter",
+  "version": "1.0.0",
+  "description": "A starter project for Firebase Hosting",
+  "scripts": {
+    "start": "firebase serve",
+    "deploy": "firebase deploy"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
